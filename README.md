@@ -13,3 +13,10 @@
     git add .
     git commit -m '00.init environment'
     git push -u origin master
+
+## 배열 랜더링하기
+
+1. map 으로 랜더링하기
+2. sort로 정렬하기
+3. filter 로 삭제하기
+4. 반드시 key 내려주기
